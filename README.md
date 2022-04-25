@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there 👋 , I am Rubayet Sadman Sami</h1>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BAs-Sami%7D/count.svg" alt="visitor badge"/></p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+at+CSE+,+SUST;"></a>
+</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=As-Sami&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=As-Sami&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
