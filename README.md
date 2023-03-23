@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+at+CSE+,+SUST;"></a>
 </p>
 
-<!-- <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=As-Sami&theme=chartreuse-dark"></p> -->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Sami-63&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 ### 🛠 &nbsp;Tech Stack
